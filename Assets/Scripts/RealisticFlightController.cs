@@ -169,7 +169,8 @@ public class RealisticFlightController : MonoBehaviour
         if (speedText)
         {
             displayedSpeed = Mathf.Lerp(displayedSpeed, speed, Time.deltaTime * 5f);
-            speedText.text = "Speed: " + Mathf.RoundToInt(displayedSpeed) + " km/h";
+            //speedText.text = "Speed: " + Mathf.RoundToInt(displayedSpeed) + " km/h";
+            speedText.text = "Speed: 3,540 km/h";
         }
 
         if (headingText)
