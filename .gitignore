@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]nity[Pp]ackage/
+
+# VS/VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Unity auto-generated
+*.pidb
+*.booproj
+*.svd
+
+# Crash logs
+*.stacktrace
+
+# Builds
+*.apk
+*.aab
+*.ipa
+*.exe
+*.dll
+*.app
